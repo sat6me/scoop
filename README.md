@@ -1,2 +1,2 @@
 # scoop
-An experiment in a data analysis language
+An experiment in a data analysis language.
